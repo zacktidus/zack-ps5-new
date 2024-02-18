@@ -1,5 +1,7 @@
 # PS5 3.xx / 4.xx Kernel Exploit
 
+This is the main branch for zack
+
 Modified ps5 host to load payloads from within the browser.
 
 - Site hosted on Cloudflare's CDN: https://ps5jb.pages.dev
